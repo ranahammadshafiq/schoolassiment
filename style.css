@@ -1,0 +1,129 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+#logo{
+	background: black;
+}
+#header{
+	text-align: center;
+	background: black;
+}
+#header ul{
+	padding-top: 30px;
+}
+#header ul a{
+	padding: 0 20px;
+	color: white;
+}
+#container1{
+	background: black;
+	color: white;
+}
+#home{
+	padding-top: 20px;
+}
+#about{
+	text-align: center;
+	padding-top: 20px;
+		padding-bottom: 10px;
+		color: white;
+}
+#container2{
+	background: rgb(128,128,128);
+
+}
+
+.btn{
+	color: white;
+	background: blue;
+	border-radius: 30px;
+}
+#container3{
+	background: rgb(250,250,250);
+	padding-top: 70px;
+	padding-bottom: 50px;
+
+}
+#services{
+	padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+#container4{
+	background: rgb(240,240,240);
+}
+#feacture{
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	background: rgb(240,240,240);
+}
+#feacturethings h4{
+	color: blue;
+}
+
+#container5{
+	background: rgb(240,240,240);
+}
+#contect{
+	padding-bottom: 30px;
+	text-align: center;
+	padding-top: 30px;
+	
+}
+#container9{
+	background: rgb(240,240,240);
+}
+#contecter{
+	text-align: center;
+
+}
+#container6{
+
+}
+#searches{
+	text-align: center;
+	padding-top: 40px;
+	background: rgb(240,240,240);
+	padding-bottom: 40px;
+}
+.form-col{
+	padding-top: 30px;
+
+
+}
+.btn2{
+	padding: 0 15px;
+}
+#container7{
+	padding-top: 5px;
+	background: rgb(60,60,60);
+	color: white;
+}
+#text{
+	text-align: center;
+	padding-top: 0px;
+	background: rgb(60,60,60);
+	color: white;
+}
+#container8{
+	background: rgb(60,60,60);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
